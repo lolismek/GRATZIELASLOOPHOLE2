@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background: #7AC2A7;
+  padding: 20px;
+}
+
+body {
+  background-color: #292C34;
+}
+
+header > h1{
+  text-align: center;
+  font-family: Asap, sans-serif;
+  font-size: 50px;
+}
+
+.cart_start{
+  text-align: center;
+}
+
+#welcome-message{
+  margin-left: 50%
+}
+
+.products{
+  margin: 50px 0;
+  text-align: center;
+}
+
+.dog_bundle{
+  margin-top: 50px;
+}
+
+.dog_head{
+  margin-top: 50px;
+}
+
+.dog_sarmale{
+  margin-top: 50px;
+}
